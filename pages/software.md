@@ -1,6 +1,6 @@
 ---
 title: Software
-description: Open-source software projects created and maintained by Jane Doe.
+description: Open-source software projects created and maintained by Duong Cao Phan.
 keywords:
   - Open-source Software
   - Python

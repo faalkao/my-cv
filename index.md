@@ -1,7 +1,7 @@
 ---
-title: Jane Doe
-subtitle: Open-Source Software Engineer & Data Scientist
-description: Jane Doe, Assistant Professor at Example University, builds open-source tools for data science and machine learning.
+title: Duong Cao Phan
+subtitle: GeoAI/ML/Earth Observation | LULC & Forest Monitoring | SAR+Optical Time‑Series | Climate Adaptation & Risk Mapping | Blue Carbon, Digital Agriculture
+description: Duong Cao Phan, Research Scientist at University College Dublin, builds open-source tools for data science and machine learning.
 # thumbnail: images/profile-thumbnail.webp
 ---
 
@@ -11,7 +11,7 @@ description: Jane Doe, Assistant Professor at Example University, builds open-so
 :columns: 12 12 4 4
 
 ```{image} logo.png
-:alt: Jane Doe
+:alt: Duong Cao Phan
 :width: 95%
 ```
 
@@ -20,13 +20,13 @@ description: Jane Doe, Assistant Professor at Example University, builds open-so
 :::{grid-item}
 :columns: 12 12 8 8
 
-**Software Engineer** | **Data Scientist**
+**Research Scientist**
 
-[Department of Computer Science](https://example.com/cs), Example University
+[Ireland’s Centre for Applied AI](https://ceadar.ie/), [School of Computer Science](https://www.ucd.ie/cs), University College Dublin
 
-[123 Science Building](https://maps.google.com), Anytown, ST 12345
+[Block 6](https://maps.app.goo.gl/MtiQyZibqR4ovgJJA), Belfield Office Park, Clonskeagh, Dublin 4, Ireland
 
-[jane.doe@example.com](mailto:jane.doe@example.com) | [example.com](https://example.com)
+[duong.phan@ucd.ie](mailto:jane.doe@example.com) | [example.com](https://example.com)
 
 **Research Interests:** Data Science, Machine Learning, Open-Source Software Development, Cloud Computing
 

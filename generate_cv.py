@@ -257,8 +257,8 @@ def gen_preamble():
     ),
     custom: (
       (text: "username", icon: "twitter", link: "https://twitter.com/username"),
-      (text: "Jane Doe", icon: "linkedin", link: "https://www.linkedin.com/in/username"),
-      (text: "Jane Doe", icon: "google-scholar", link: "https://scholar.google.com"),
+      (text: "Duong Cao Phan", icon: "linkedin", link: "https://www.linkedin.com/in/username"),
+      (text: "Duong Cao Phan", icon: "google-scholar", link: "https://scholar.google.com"),
       (text: "0000-0000-0000-0000", icon: "orcid", link: "https://orcid.org/0000-0000-0000-0000"),
     ),
   ),
@@ -275,7 +275,7 @@ def gen_preamble():
 #set heading(bookmarked: true)
 
 // Set PDF document title
-#set document(title: "Jane Doe - CV")"""
+#set document(title: "Duong Cao Phan - CV")"""
 
 
 def gen_education(about):
